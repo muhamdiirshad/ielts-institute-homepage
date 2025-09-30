@@ -1,16 +1,61 @@
-# React + Vite
+# IELTS Institute Homepage 🏫
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.3-blue?logo=tailwind-css&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-Currently, two official plugins are available:
+A modern, responsive landing page for a fictional **IELTS preparation institute**, built with **React JS** and **Tailwind CSS**. This homepage is designed to attract students, highlight the institute’s features, and provide a professional, engaging user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🌟 Features
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Responsive Navbar** – Logo, navigation links, and mobile-friendly hamburger menu.  
+- **Hero Section** – Eye-catching headline, subtext, call-to-action buttons, and banner image.  
+- **Feature Cards** – Showcasing speaking practice, mock tests, AI band score, and personal coaching with icons.  
+- **Student Testimonials** – Fade-in reviews from satisfied students.  
+- **Footer** – Contact info and quick links.  
+- **Animations** – Smooth fade & slide effects using **Framer Motion**.  
+- **Fully Responsive** – Looks great on mobile, tablet, and desktop screens.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Technologies Used
+
+- **React JS** (Functional Components)  
+- **Tailwind CSS** (Modern styling)  
+- **Framer Motion** (Animations)  
+- **React Icons & Heroicons** (Visual enhancements)
+
+---
+
+.
+
+🎨 Design Choices
+
+Modern & Clean – White cards on a soft gray background for readability. Accent colors highlight CTAs.
+
+Animations – Cards, hero section, and testimonials animate in smoothly for engagement.
+
+Mobile-First – Fully responsive grid and layout for seamless viewing on all devices.
+
+User Engagement – Clear call-to-action buttons and feature highlights to guide visitors.
+
+---
+
+## 🚀 How to Run the Project Locally
+
+Follow these steps to get the homepage running on your machine:
+
+1. **Clone the repository**:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/ielts-institute-homepage.git
+
+cd ielts-institute-homepage
+
+npm install
+
+npm run dev
+
+Local: http://localhost:5173
